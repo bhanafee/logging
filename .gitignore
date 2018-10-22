@@ -1,0 +1,14 @@
+bin
+build
+lib
+logs
+out
+target
+*.iml
+*.ipr
+*.iws
+.*
+!.gitignore
+!.gitmodules
+!.dockerignore
+!.travis.yml
